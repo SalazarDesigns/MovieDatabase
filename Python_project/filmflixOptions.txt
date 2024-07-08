@@ -1,0 +1,7 @@
+The Database Report Options Menu:
+Enter:
+1. Print all Films
+2. Print Specific film genre
+3. Films from certain years
+4. Print Films of a certain rating
+5. Return to Main Menu
